@@ -1,0 +1,14 @@
+{
+  "name": "webp-cli",
+  "version": "1.0.1",
+  "description": "a tool to bulid web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "webp test"
+  },
+  "keywords": [
+    "dsky"
+  ],
+  "author": "dsky",
+  "license": "MIT"
+}
