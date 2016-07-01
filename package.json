@@ -1,6 +1,6 @@
 {
   "name": "webp-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a tool to bulid web project",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
     "dsky"
   ],
   "author": "dsky",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/dsky1990/webp-cli.git"
+  }
 }
